@@ -1,7 +1,27 @@
 <!DOCTYPE html>
 <html lang="fa">
 <head>
-  <meta charset="UTF-8" />
+   <title>فرمول آرتان | ایوب تیمورنژاد - نظریه انرژی، سیاه‌چاله و کوانتوم</title>
+<meta name="description" content="پژوهش‌های ایوب تیمورنژاد درباره فرمول انرژی-جرم واحد، سیاهچاله‌ها، فلسفه زمان و نظریه وحدت بزرگ در فیزیک و متافیزیک.">
+<meta name="keywords" content="ایوب تیمورنژاد, فرمول آرتان, سیاهچاله, انرژی تاریک, متافیزیسین, فلسفه فیزیک, کوانتوم, نظریه وحدت بزرگ">
+<meta name="author" content="Ayoub Teymornejad">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ayoub Teymornejad",
+  "jobTitle": "Metaphysicist & Independent Researcher",
+  "description": "Author of the Artan Unified Formula. Exploring energy, time, black holes and quantum mechanics.",
+  "url": "https://ayoub1851.github.io/artaan-site/",
+  "sameAs": [
+    "https://zenodo.org/records/15512178",
+    "https://www.researchgate.net/profile/Ayoub-Teymornejad",
+    "https://www.academia.edu/yourprofile"
+  ]
+}
+</script> <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>سایت آرتان</title>
 </head>
